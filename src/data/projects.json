@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Responsive-Education-Website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shwetasorte/Responsive-Education-Website"
+  },
+  {
+    "title": "travel-booking-website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shwetasorte/travel-booking-site"
+  },
+  {
+    "title": "My-portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "HTML", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/shwetasorte/my-portfolio"
+  }
+]
